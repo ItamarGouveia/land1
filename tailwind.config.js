@@ -6,7 +6,7 @@ module.exports = {
       colors: {
         rosa: '#E2A4A8',
         rosaLight: '#F2C4AF',
-        verde: '#7DBEBC',
+        verde: '#20A7AD',
         accent: '#e53e3e',
       },
       fontFamily: {
